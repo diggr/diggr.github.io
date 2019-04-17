@@ -1,0 +1,95 @@
+.contentcol {
+  padding-top: 4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: #fff;
+}
+
+.imprint {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 12px;
+}
+
+.content {
+  text-align: left;
+}
+
+img {
+    width: 100%;
+}
+
+.alea {
+  width: 25%;
+  margin: 0.75rem;
+}
+
+.img {
+  margin: 1rem;
+  width: 40%;
+}
+
+a {
+  text-decoration: none;
+  color: #bf2026;
+}
+
+a:hover {
+  color: #e35c61;
+}
+
+.navlink {
+  margin-left: 1.2rem;
+  margin-right: 1.2rem;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Design
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.section {
+  padding: 5rem 0 4rem;
+}
+
+.section-heading,
+.section-description {
+  margin-bottom: 1.2rem;
+}
+
+body {
+  background-image: url('../images/diggr_website_bg.jpg');
+  background-size: cover;
+  color: #444;
+}
+
+.categories .section-description {
+  margin-bottom: 2rem;
+}
+
+/* @media (min-width: 550px) {
+  .section {
+    padding: 12rem 0 11rem;
+  }
+
+@media (min-width: 750px) {
+  .section {
+    padding: 14rem 0 17rem;
+  }
+  .section-description {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .categories {
+    padding: 15rem 0 8rem;
+  }
+}
+
+@media (min-width: 1000px) {
+  .section {
+    padding: 20rem 0 19rem;
+  } */
