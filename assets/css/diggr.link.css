@@ -63,6 +63,7 @@ hr {
 body {
   background-image: url('../images/diggr_website_bg.jpg');
   background-size: cover;
+  background-attachment: fixed;
   color: #444;
 }
 
