@@ -34,7 +34,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für in
 Rechtswidrige Links und Inhalte werden nach Kenntnisnahme unverzüglich entfernt. Bitte nehmen Sie in solchen Fällen Kontakt mit uns auf.
 
 Datenschutzerklärung:  
-Diese Internetpräsenz sammelt keine persönlichen Daten der Benutzer und verwendet keine Cookies. Zugriffe werden in Log-Dateien protokolliert.
+Diese Internetpräsenz wird bei [github](https://github.com) gehostet und sammelt keine persönlichen Daten der Benutzer und verwendet keine Cookies. Zugriffe werden in Log-Dateien protokolliert. Für mehr Details lesen sie bitte das [github Privacy Statement](https://help.github.com/en/articles/github-privacy-statement).
 
 Angebotene Formulare leiten nur die eingegebenen Daten an die jeweiligen Empfänger weiter.
 
