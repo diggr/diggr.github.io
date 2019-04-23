@@ -8,13 +8,13 @@ guid: https://diggr.link/?page_id=26
 ---
 Konstantin Freybe
 
-Tracy Hoffmann
+[Tracy Hoffmann](https://github.com/thoffma)
 
-André Lahmann
+[André Lahmann](https://github.com/lahmann)
 
-Peter Mühleder
+[Peter Mühleder](https://github.com/missinglinks)
 
-Florian Rämisch
+[Florian Rämisch](https://github.com/olf42)
 
 Martin Roth
 
