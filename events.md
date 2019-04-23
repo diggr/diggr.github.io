@@ -8,15 +8,19 @@ guid: https://diggr.link/?page_id=135
 ---
 ## Interested in our events - past or upcoming? Here we provide all information about presentations, workshops, conferences and more.
 
-This page will keep you updated on diggr's public appearances as well as it will serve as an archive for event information. You intend to participate in one of our events and would like to look up e.g. schedules or locations? You went to a diggr-Event but unfortunately cannot remember who held that interesting talk? Then you found the right page. We do our best to provide you with information the best we can. If you were unable to find something, please give us a hint via <team@diggr.link>{.moz-txt-link-abbreviated}.
+This page will keep you updated on diggr's public appearances as well as it will serve as an archive for event information. You intend to participate in one of our events and would like to look up e.g. schedules or locations? You went to a diggr-Event but unfortunately cannot remember who held that interesting talk? Then you found the right page. We do our best to provide you with information the best we can. If you were unable to find something, please give us a hint via <team@diggr.link>.
 
 ## Upcoming Events
 
-tba
+[diggr@DiGRA2019: Metadata in Game Studies: what is it, what we can do with it, and why it matters (Workshop)](http://www.digra2019.org)
+
+**Venue:** DiGRA 2019 conference, Kyoto
+
+**Dates:** Aug. 6.-10. 2019
 
 ## Past Events
 
-[diggr@RODBH2019: Doctoral Symposium on Research on Online Databases in History 2019](https://pcp-on-web.htwk-leipzig.de/project/page.php?goto=RODBH2019-AcceptedPapers#en)
+[diggr@RODBH2019: Developing a Mediated Vocabulary for Video Game Research](https://pcp-on-web.htwk-leipzig.de/project/page.php?goto=RODBH2019-AcceptedPapers#en)
 
 **Venue:** Doctoral Symposium on Research on Online Databases in History (RODBH 2019), HTWK Leipzig
 
