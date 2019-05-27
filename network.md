@@ -6,6 +6,8 @@ author: Martin Roth
 layout: page
 guid: https://diggr.link/?page_id=30
 ---
+[International Videogame Data Network (IVDN)](https://ivdn.org/)
+
 [[j]Games Initiative](http://home.uni-leipzig.de/jgames/), Leipzig University
 
 [Natural Language Processing Group, Department of Computer Science](http://asv.informatik.uni-leipzig.de), Leipzig University

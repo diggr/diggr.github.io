@@ -52,6 +52,8 @@ Hoffmann, Tracy. Developing a Mediated Vocabulary for Video Game Research. In: 3
 
 ## 2018
 
+Hoffmann, Tracy und Peter Mühleder. ,Das ist nicht das gleiche Spiel!?‘ – Herausforderungen bei der Bereitstellung von Forschungsdaten über japanische Videospiele. In: apanologentag 2018. Berlin (FU Berlin), 2018.
+
 Lahmann, André und Tracy Hoffmann. Japanische Videospiele erschließen durch Forschungsdaten - ein Praxisbericht aus dem Projekt diggr. In: 107. Deutscher Bibliothekartag in Berlin 2018 / Themenkreise / TK 6: erschließen & erhalten / Forschungsdatenmanagement - mal anders.  
 [Presentation](https://opus4.kobv.de/opus4-bib-info/files/3619/Bibtag18-Praxisbericht_diggr.pdf)
 
