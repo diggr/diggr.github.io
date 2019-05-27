@@ -27,7 +27,9 @@ DOI (Poster): [10.5281/zenodo.2583592](http://doi.org/10.5281/zenodo.2583592) [g
 
 # Software
 
-<span class="ng-binding">F. Rämisch, & P. Mühleder. (2018, December 14). provit (Version v0.2.3). Zenodo. <a href="http://doi.org/10.5281/zenodo.2268521">http://doi.org/10.5281/zenodo.2268521</a></span>
+<span class="ng-binding">P. Mühleder, F. Rämisch & T. Hoffmann. (2019, April 26). diggr/provit: v1.0.1 (Version v1.0.1). Zenodo. <a href="http://doi.org/10.5281/zenodo.2652205">http://doi.org/10.5281/zenodo.2652205</a></span>
+
+<span class="ng-binding">F. Rämisch & P. Mühleder. (2018, December 14). provit (Version v0.2.3). Zenodo. <a href="http://doi.org/10.5281/zenodo.2268521">http://doi.org/10.5281/zenodo.2268521</a></span>
 
 # Vocabulary
 
