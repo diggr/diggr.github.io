@@ -47,6 +47,9 @@ Lahmann, André und Martin Roth. „Die jGames-Sammlung an der UB Leipzig: Wie m
 
 Roth, Martin. „データ中心のゲーム研究インフラストラクチャー : Data-based infrastructure for global game research (diggr)」のアプローチ [A data-centered infrastructure for game research: the diggr-approach]“. In: International Digital Game Preservation 2019  Symposium: What Requirements for Digital Games Preservation? Kyoto (Ritsumeikan University), 2019.
 
+Hoffmann, Tracy. Developing a Mediated Vocabulary for Video Game Research. In: 3rd Data for History workshop, Leipzig University of Applied Sciences (HTWK), 4-5 April 2019.
+[Presentation](http://dataforhistory.org/sites/default/files/rodbh20190404_hoffmann.pdf)
+
 ## 2018
 
 Lahmann, André und Tracy Hoffmann. Japanische Videospiele erschließen durch Forschungsdaten - ein Praxisbericht aus dem Projekt diggr. In: 107. Deutscher Bibliothekartag in Berlin 2018 / Themenkreise / TK 6: erschließen & erhalten / Forschungsdatenmanagement - mal anders.  
