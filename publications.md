@@ -27,7 +27,9 @@ DOI (Poster): [10.5281/zenodo.2583592](http://doi.org/10.5281/zenodo.2583592) [g
 
 # Software
 
-<span class="ng-binding">F. Rämisch, & P. Mühleder. (2018, December 14). provit (Version v0.2.3). Zenodo. <a href="http://doi.org/10.5281/zenodo.2268521">http://doi.org/10.5281/zenodo.2268521</a></span>
+<span class="ng-binding">P. Mühleder, F. Rämisch & T. Hoffmann. (2019, April 26). diggr/provit: v1.0.1 (Version v1.0.1). Zenodo. <a href="http://doi.org/10.5281/zenodo.2652205">http://doi.org/10.5281/zenodo.2652205</a></span>
+
+<span class="ng-binding">F. Rämisch & P. Mühleder. (2018, December 14). provit (Version v0.2.3). Zenodo. <a href="http://doi.org/10.5281/zenodo.2268521">http://doi.org/10.5281/zenodo.2268521</a></span>
 
 # Vocabulary
 
@@ -36,11 +38,54 @@ diggr Video Game Vocabulary
 
 # Presentation 
 
+## 2019
+
 Konstantin Freybe, Florian Rämisch and Tracy Hoffmann. With small steps to the big picture - A method and tool negotiation workflow. Twin Talks: Understanding Collaboration in DH at DHN 2019  
 [http://www.clarin.eu/sites/default/files/DHN\_2019\_diggr.pdf](http://www.clarin.eu/sites/default/files/DHN_2019_diggr.pdf)
 
-Lahmann, André, und Tracy Hoffmann. Japanische Videospiele erschließen durch Forschungsdaten - ein Praxisbericht aus dem Projekt diggr. In: 107. Deutscher Bibliothekartag in Berlin 2018 / Themenkreise / TK 6: erschließen & erhalten / Forschungsdatenmanagement - mal anders.  
-<https://opus4.kobv.de/opus4-bib-info/files/3619/Bibtag18-Praxisbericht_diggr.pdf>
+Lahmann, André und Martin Roth. „Die jGames-Sammlung an der UB Leipzig: Wie man 4.500 japanische Videospiele nutzbar macht“. gehalten auf der BID Kongress 2019, Leipzig, 19. März 2019.
 
-Mühleder, Peter and Hoffmann, Tracy. Tales of doing Research with Video Game Fan Databases : A data-driven Approach. In: EAJRS Kaunas 2018  
-[Presentation](https://diggr.link/wp-content/uploads/2017/10/Tales-of-doing-Research-with-Video-Game-Fan-Databases_-A-data-driven-Approach.pdf)
+Roth, Martin. „データ中心のゲーム研究インフラストラクチャー : Data-based infrastructure for global game research (diggr)」のアプローチ [A data-centered infrastructure for game research: the diggr-approach]“. In: International Digital Game Preservation 2019  Symposium: What Requirements for Digital Games Preservation? Kyoto (Ritsumeikan University), 2019.
+
+Hoffmann, Tracy. Developing a Mediated Vocabulary for Video Game Research. In: 3rd Data for History workshop, Leipzig University of Applied Sciences (HTWK), 4-5 April 2019.
+[Presentation](http://dataforhistory.org/sites/default/files/rodbh20190404_hoffmann.pdf)
+
+## 2018
+
+Lahmann, André und Tracy Hoffmann. Japanische Videospiele erschließen durch Forschungsdaten - ein Praxisbericht aus dem Projekt diggr. In: 107. Deutscher Bibliothekartag in Berlin 2018 / Themenkreise / TK 6: erschließen & erhalten / Forschungsdatenmanagement - mal anders.  
+[Presentation](https://opus4.kobv.de/opus4-bib-info/files/3619/Bibtag18-Praxisbericht_diggr.pdf)
+
+Mühleder, Peter, Tracy Hoffmann, Konstantin Freybe, André Lahmann, Florian Rämisch, Martin Roth & Leander Seige. „Tales of doing Research with Video Game Fan Databases: A data-driven Approach“. In: Replaying Japan 2018. Nottingham (National Videogame Archade), 2018.
+
+Mühleder, Peter and Hoffmann, Tracy. Video games as a resource in Japanese Studies. In: The 29th EAJRS Conference, 2018, Kaunas  
+[Presentation](https://www.eajrs.net/files/happyo/muhleder_peter_18.pdf)
+
+Roth, Martin. „Produktion ‚japanischer‘ Videospiele aus einer datenbasierten Perspektive“. In: Japanologentag 2018. Berlin (FU Berlin), 2018.
+
+Roth, Martin. „The spatiality of videogame production in Japan“. In: Replaying Japan 2018, 2018.
+
+Roth, Martin. „The Transformation of contents production: The case of the game industry in Japan“. Contribution to the GP lecture series at Ritsumeikan University, 25. Mai 2018.
+
+Roth, Martin. „Videospiele in Japan. Videospiele aus Japan“. In Japan Pop goes global? – Japanische Populärkultur und ihre vielschichtige Rezeption in Deutschland. Köln (Japanisches Kulturinstitut), 2018.
+
+Roth, Martin. „Videospielproduktion in Japan zwischen Lokalem und Globalem“. In: GfM Jahrestagung 2018 - Industrien. Siegen, 2018.
+
+Roth, Martin und André Lahmann. „Forschungsdaten von Amateuren: Fan-Communities und ihr Beitrag zur datenbasierten Forschung an Videospielkultur“. Vortrag im Rahmen des Berliner Bibliothekswissenschaftliches Kolloquium, Humboldt University Berlin, 22. Mai 2018. [Presentation](https://www.ibi.hu-berlin.de/de/bbk/bbkss18).
+
+Roth, Martin und André Lahmann. „Japanische Videospiele in der Universität Leipzig“. Vortrag im Rahmen des Workshops AK Japanbibliotheken 2018, Leipzig University, 29. April 2018.
+
+Roth, Martin, und Peter Mühleder. „文化生産のグローバル化？日本のゲーム産業の場合 / The globalization of cultural production? A case study of the game industry in Japan“. In: Cultural Typhoon 2018. Ryūkoku University, Kyōto, 2018.
+
+## 2017
+
+Dyson, Jon-Paul, Aki Nakamura, Martin Roth, Kōichi Hosoi, Geoffrey Rockwell & James Newman. „Game Preservation Roundtable“. Discussion Roundtable gehalten auf der Replaying Japan 2017, The Strong, Rochester (NY), 23. August 2017.
+
+Roth, Martin. „Daten-basierte Zugänge zur japanischen Videospielkultur“. Freie Universität Berlin, 18. Mai 2017.
+
+Roth, Martin. „Daten-basierte Zugänge zur japanischen Videospielproduktion“. Doppelvortrag Game Design / Game Studies, Leipzig (Universität Leipzig), 8. Juni 2017.
+
+Roth, Martin. „Teaching and Studying Japan’s Videogame Culture: Some Challenges of Playing Games and Mining Data“. Plenary Speech gehalten auf der Marketing Identity 2017: #onlinerules, Smolenice Castle / University of SS. Cyril and Methodius in Trnava, Slovakia, 7. November 2017. <http://fmk.sk/marketing-identity/>.
+
+Roth, Martin, und André Lahmann. „Datenbasierte Erforschung japanischer Videospiele“. In: Digital Humanities Day Leipzig 2017. Leipzig University, 2017.
+
+Roth, Martin, Leander Seige, Konstantin Freybe, Tracy Hoffmann & André Lahmann. „What can data tell us about Japan’s videogame culture?“ In Replaying Japan 2017: Transmedia and Story in Japanese Games. The Strong National Museum of Play, Rochester, NY, 2017. <http://replaying.jp/category/replaying-japan-2017/>.
