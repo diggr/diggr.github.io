@@ -12,6 +12,12 @@ This page will keep you updated on diggr's public appearances as well as it will
 
 ## Upcoming Events
 
+[diggr@Replaying Japan 2019: Praise the data \o/! Three data-driven perspectives on FromSoftware Videogames](https://replaying.jp/category/replaying-japan-2019/)
+
+**Venue:** Replaying Japan, Kyoto
+
+**Dates:** Aug. 9.-11. 2019
+
 [diggr@DiGRA2019: Metadata in Game Studies: what is it, what we can do with it, and why it matters (Workshop)](http://www.digra2019.org)
 
 **Venue:** DiGRA 2019 conference, Kyoto
@@ -128,7 +134,7 @@ diggr@Bibliothekskongress: <span class="presentation-title ng-binding">Die jGam
 
 [diggr@WS15 Modellierung4DH: Workflows zur datenbasierten Videospielforschung – Am Beispiel der populären Videospielserie Metal Gear Solid](https://informatik2017.de/ws15-modellierung4dh/)
 
-**Venue:** Informatik 2017|Digitale Kulturen, Chemnitz
+**Venue:** Informatik 2017\|Digitale Kulturen, Chemnitz
 
 **Dates:** Sept. 29, 2017, 9:30 a.m
 
