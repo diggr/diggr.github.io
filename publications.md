@@ -33,8 +33,14 @@ DOI (Poster): [10.5281/zenodo.2583592](http://doi.org/10.5281/zenodo.2583592) [g
 
 # Vocabulary
 
-diggr Video Game Vocabulary  
+diggr Video Game Vocabulary
 <https://github.com/diggr/diggr-video-game-vocabulary>
+
+<span class="ng-binding">Hoffmann, Tracy. (2019, February 19). Diggr Video Game Vocabulary (Version 1.1). Zenodo. <a href="http://doi.org/10.5281/zenodo.3237537">http://doi.org/10.5281/zenodo.3237537</a></span>
+
+# Dataset
+
+Mühleder, Peter, Hoffmann, Tracy, & Rämisch, Florian. (2019). Video Game Platform Mapping (Version 1.0) [Data set]. Zenodo. <a href="http://doi.org/10.5281/zenodo.3237563">http://doi.org/10.5281/zenodo.3237563</a>
 
 # Presentation 
 
