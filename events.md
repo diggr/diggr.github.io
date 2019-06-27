@@ -14,7 +14,7 @@ This page will keep you updated on diggr's public appearances as well as it will
 
 [diggr@Videogame and visual Media Data: Community-driven Initiatives and Research Avenues Workshop](https://jvmg.iuk.hdm-stuttgart.de/)
 
-**Venue:** Universitätsbibliothek, Leipzig
+**Venue:** Universitätsbibliothek, Leipzig ([Poster](../assets/docs/2019_07_02_videogames_and_visual_media_data.pdf))
 
 **Dates:** Jul. 2.-3. 2019
 
