@@ -18,6 +18,8 @@ diggr@Videogame and visual Media Data: Community-driven Initiatives and Researc
 
 **Dates:** Jul. 2.-3. 2019
 
+* * *
+
 [diggr@Replaying Japan 2019: Praise the data \o/! Three data-driven perspectives on FromSoftware Videogames](https://replaying.jp/category/replaying-japan-2019/)
 
 **Venue:** Replaying Japan, Kyoto
