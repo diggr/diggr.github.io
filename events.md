@@ -12,7 +12,7 @@ This page will keep you updated on diggr's public appearances as well as it will
 
 ## Upcoming Events
 
-diggr@Videogame and visual Media Data: Community-driven Initiatives and Research Avenues Workshop
+[diggr@Videogame and visual Media Data: Community-driven Initiatives and Research Avenues Workshop](https://jvmg.iuk.hdm-stuttgart.de/)
 
 **Venue:** Universitätsbibliothek, Leipzig
 
