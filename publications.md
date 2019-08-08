@@ -42,6 +42,8 @@ diggr Video Game Vocabulary
 
 # Dataset
 
+Mühleder, Peter, Rämisch, Florian, & Hoffmann, Tracy. (2019). Interlinking dataset of the video game databases Mobygames and MediaArt Database [Data set]. Zenodo. <a href="http://doi.org/10.5281/zenodo.3356508">http://doi.org/10.5281/zenodo.3356508</a>
+
 Mühleder, Peter, Hoffmann, Tracy, & Rämisch, Florian. (2019). Video Game Platform Mapping (Version 1.0) [Data set]. Zenodo. <a href="http://doi.org/10.5281/zenodo.3237563">http://doi.org/10.5281/zenodo.3237563</a>
 
 # Presentation 
