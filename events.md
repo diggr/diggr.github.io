@@ -12,13 +12,10 @@ This page will keep you updated on diggr's public appearances as well as it will
 
 ## Upcoming Events
 
-[diggr@Videogame and visual Media Data: Community-driven Initiatives and Research Avenues Workshop](https://jvmg.iuk.hdm-stuttgart.de/)
+tba
 
-**Venue:** Universitätsbibliothek, Leipzig ([Poster](../assets/docs/2019_07_02_videogames_and_visual_media_data.pdf))
+## Past Events
 
-**Dates:** Jul. 2.-3. 2019
-
-* * *
 
 [diggr@Replaying Japan 2019: Praise the data \o/! Three data-driven perspectives on FromSoftware Videogames](https://replaying.jp/category/replaying-japan-2019/)
 
@@ -26,19 +23,29 @@ This page will keep you updated on diggr's public appearances as well as it will
 
 **Dates:** Aug. 9.-11. 2019
 
+* * *
+
 [diggr@DiGRA2019: Metadata in Game Studies: what is it, what we can do with it, and why it matters (Workshop)](http://www.digra2019.org)
 
 **Venue:** DiGRA 2019 conference, Kyoto
 
 **Dates:** Aug. 6.-10. 2019
 
-## Past Events
+* * *
 
 [diggr@RODBH2019: Developing a Mediated Vocabulary for Video Game Research](https://pcp-on-web.htwk-leipzig.de/project/page.php?goto=RODBH2019-AcceptedPapers#en)
 
 **Venue:** Doctoral Symposium on Research on Online Databases in History (RODBH 2019), HTWK Leipzig
 
 **Dates:** Apr. 4.-5. 2019
+
+* * *
+
+[diggr@Videogame and visual Media Data: Community-driven Initiatives and Research Avenues Workshop](https://jvmg.iuk.hdm-stuttgart.de/)
+
+**Venue:** Universitätsbibliothek, Leipzig ([Poster](../assets/docs/2019_07_02_videogames_and_visual_media_data.pdf))
+
+**Dates:** Jul. 2.-3. 2019
 
 * * *
 
