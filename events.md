@@ -16,6 +16,21 @@ tba
 
 ## Past Events
 
+[diggr@WikidataCon 2019](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019/Program/Sessions/Sum_of_All_video_games_%E2%88%92_2019_edition)
+
+**Venue:**  Urania, Berlin
+
+**Dates:** Oct. 25./26., 2019
+
+* * *
+
+[diggr@Wikidata goes Library Vienna](https://www.wikidata.org/wiki/Wikidata:Events/Vienna/2019-10-18)
+
+**Venue:**  Vienna Public Library, Vienna
+
+**Dates:** Oct. 18., 2019
+
+* * *
 
 [diggr@Replaying Japan 2019: Praise the data \o/! Three data-driven perspectives on FromSoftware Videogames](https://replaying.jp/category/replaying-japan-2019/)
 
@@ -37,7 +52,7 @@ tba
 
 **Venue:** Doctoral Symposium on Research on Online Databases in History (RODBH 2019), HTWK Leipzig
 
-**Dates:** Apr. 4.-5. 2019
+**Dates:** Apr. 4./5. 2019
 
 * * *
 
@@ -45,7 +60,7 @@ tba
 
 **Venue:** Universitätsbibliothek, Leipzig ([Poster](../assets/docs/2019_07_02_videogames_and_visual_media_data.pdf))
 
-**Dates:** Jul. 2.-3. 2019
+**Dates:** Jul. 2./3. 2019
 
 * * *
 
@@ -63,7 +78,7 @@ tba
   <strong>Venue: </strong>Workshop - Twin Talks: Understanding Collaboration in DH at DHN 2019
 </p>
 
-**Dates:** Mar. 5., 2019
+**Dates:** Mar. 5, 2019
 
 * * *
 
@@ -159,7 +174,7 @@ diggr@Bibliothekskongress: <span class="presentation-title ng-binding">Die jGam
 
 **Venue:** Leipzig University Library, Beethovenstraße 6, Leipzig
 
-**Dates:** Sept. 12-13, 2017
+**Dates:** Sept. 12./13., 2017
 
 * * *
 
