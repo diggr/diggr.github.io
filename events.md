@@ -20,7 +20,7 @@ tba
 
 **Venue:**  Urania, Berlin
 
-**Dates:** Oct. 25./26., 2019
+**Dates:** Oct. 25/26, 2019
 
 * * *
 
@@ -28,7 +28,7 @@ tba
 
 **Venue:**  Vienna Public Library, Vienna
 
-**Dates:** Oct. 18., 2019
+**Dates:** Oct. 18, 2019
 
 * * *
 
@@ -36,7 +36,7 @@ tba
 
 **Venue:** Replaying Japan, Kyoto
 
-**Dates:** Aug. 9.-11. 2019
+**Dates:** Aug. 9-11, 2019
 
 * * *
 
@@ -44,7 +44,7 @@ tba
 
 **Venue:** DiGRA 2019 conference, Kyoto
 
-**Dates:** Aug. 6.-10. 2019
+**Dates:** Aug. 6-10, 2019
 
 * * *
 
@@ -52,7 +52,7 @@ tba
 
 **Venue:** Doctoral Symposium on Research on Online Databases in History (RODBH 2019), HTWK Leipzig
 
-**Dates:** Apr. 4./5. 2019
+**Dates:** Apr. 4/5, 2019
 
 * * *
 
@@ -60,7 +60,7 @@ tba
 
 **Venue:** Universitätsbibliothek, Leipzig ([Poster](../assets/docs/2019_07_02_videogames_and_visual_media_data.pdf))
 
-**Dates:** Jul. 2./3. 2019
+**Dates:** Jul. 2/3, 2019
 
 * * *
 
@@ -68,7 +68,7 @@ tba
 
 **Venue:** 6. Jahrestagung Digital Humanities im deutschsprachigen Raum, Frankfurt & Mainz
 
-**Dates:** Mar. 25.-29. 2019
+**Dates:** Mar. 25-29, 2019
 
 * * *
 
@@ -88,7 +88,7 @@ diggr@Bibliothekskongress: <span class="presentation-title ng-binding">Die jGam
 
 **Venue:** 7. Bibliothekskongress, Leipzig
 
-**Dates:** Mar. 18./19., 2019
+**Dates:** Mar. 18/19, 2019
 
 * * *
 
@@ -114,7 +114,7 @@ diggr@Bibliothekskongress: <span class="presentation-title ng-binding">Die jGam
 
 **Venue:** Japanologentag 2018, Freie Universität Berlin -- <span class="type ng-binding ng-scope">Panel B Digital Humanities</span>
 
-**Dates:** Aug. 29 - 31, 2018
+**Dates:** Aug. 29-31, 2018
 
 * * *
 
@@ -174,7 +174,7 @@ diggr@Bibliothekskongress: <span class="presentation-title ng-binding">Die jGam
 
 **Venue:** Leipzig University Library, Beethovenstraße 6, Leipzig
 
-**Dates:** Sept. 12./13., 2017
+**Dates:** Sept. 12/13, 2017
 
 * * *
 
