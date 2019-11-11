@@ -54,7 +54,7 @@ Jean-Frédéric Berthelot, Tracy Hoffmann and Envel Le Hir. Sum of All video gam
 [Video](https://commons.wikimedia.org/wiki/File:WikidataCon_2019_-_Sum_of_all_video_games.pdf) and
 [Presentation](https://media.ccc.de/v/wikidatacon2019-1074-sum_of_all_video_games_2019_edition)
 
-Konstantin Freybe, Florian Rämisch and Tracy Hoffmann. With small steps to the big picture - A method and tool negotiation workflow. Twin Talks: Understanding Collaboration in DH at DHN 2019  .
+Konstantin Freybe, Florian Rämisch and Tracy Hoffmann. With small steps to the big picture - A method and tool negotiation workflow. Twin Talks: Understanding Collaboration in DH at DHN 2019.
 [http://www.clarin.eu/sites/default/files/DHN\_2019\_diggr.pdf](http://www.clarin.eu/sites/default/files/DHN_2019_diggr.pdf)
 
 Lahmann, André und Martin Roth. „Die jGames-Sammlung an der UB Leipzig: Wie man 4.500 japanische Videospiele nutzbar macht“. gehalten auf der BID Kongress 2019, Leipzig, 19. März 2019.
