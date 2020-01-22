@@ -12,7 +12,9 @@ guid: https://diggr.link/?page_id=32
    <span class="mci-citation-conftitle">Proceedings of the Doctoral Symposium on Research on Online Databases in History, co-located with 3rd Data for History Workshop</span>,
    CEUR-WS.org, online [CEUR Vol-2532](http://ceur-ws.org/Vol-2532/paper8.pdf).
 
-<span class="mci-citation"><span class="mci-citation-author">Freybe, K., Rämisch, F. & Hoffmann, T., </span><span class="mci-citation-year">(2019). </span><span class="mci-citation-title">With small steps to the big picture: A method and tool negotiation workflow.</span>
+<span class="mci-citation"><span class="mci-citation-author">Mühleder, Peter, Becker, Armin & Roth, Martin, </span><span class="mci-citation-year">(2019) </span><span class="mci-citation-title">Sonnenanbetung hinter Illusionswänden - Memes als kommunikative Praxis in Dark Souls.</span> In: Rudolf Inderst, Christof Zurschmitten, u. Pascal Wagner (Hg.): Prepare To Die: Interdisziplinärer Sammelband zu Dark Souls, Demon’s Souls und Bloodborne. Glückstadt : Hülsbusch, W. 978-3-86488-156-5</span>
+
+<span class="mci-citation"><span class="mci-citation-author">Freybe, Konstantin, Rämisch, Florian & Hoffmann, Tracy, </span><span class="mci-citation-year">(2019). </span><span class="mci-citation-title">With small steps to the big picture: A method and tool negotiation workflow.</span>
    <span class="mci-citation-conftitle">Proceedings of the Twin Talks Workshop at DHN 2019, co-located with Digital Humanities in the Nordic Countries (DHN 2019)</span>,
    CEUR-WS.org, online [CEUR Vol-2365-03](http://ceur-ws.org/Vol-2365/03-TwinTalks-DHN2019_paper_3.pdf).
 
