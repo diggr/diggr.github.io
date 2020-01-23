@@ -12,7 +12,9 @@ guid: https://diggr.link/?page_id=32
    <span class="mci-citation-conftitle">Proceedings of the Doctoral Symposium on Research on Online Databases in History, co-located with 3rd Data for History Workshop</span>,
    CEUR-WS.org, online [CEUR Vol-2532](http://ceur-ws.org/Vol-2532/paper8.pdf).
 
-<span class="mci-citation"><span class="mci-citation-author">Freybe, K., Rämisch, F. & Hoffmann, T., </span><span class="mci-citation-year">(2019). </span><span class="mci-citation-title">With small steps to the big picture: A method and tool negotiation workflow.</span>
+<span class="mci-citation"><span class="mci-citation-author">Mühleder, Peter, Becker, Armin & Roth, Martin, </span><span class="mci-citation-year">(2019) </span><span class="mci-citation-title">Sonnenanbetung hinter Illusionswänden - Memes als kommunikative Praxis in Dark Souls.</span> In: Rudolf Inderst, Christof Zurschmitten, u. Pascal Wagner (Hg.): Prepare To Die: Interdisziplinärer Sammelband zu Dark Souls, Demon’s Souls und Bloodborne. Glückstadt : Hülsbusch, W. 978-3-86488-156-5</span>
+
+<span class="mci-citation"><span class="mci-citation-author">Freybe, Konstantin, Rämisch, Florian & Hoffmann, Tracy, </span><span class="mci-citation-year">(2019). </span><span class="mci-citation-title">With small steps to the big picture: A method and tool negotiation workflow.</span>
    <span class="mci-citation-conftitle">Proceedings of the Twin Talks Workshop at DHN 2019, co-located with Digital Humanities in the Nordic Countries (DHN 2019)</span>,
    CEUR-WS.org, online [CEUR Vol-2365-03](http://ceur-ws.org/Vol-2365/03-TwinTalks-DHN2019_paper_3.pdf).
 
@@ -54,9 +56,12 @@ Mühleder, Peter, Hoffmann, Tracy, & Rämisch, Florian. (2019). Video Game Platf
 
 ## 2019
 
-Jean-Frédéric Berthelot, Tracy Hoffmann and Envel Le Hir. Sum of All video games − 2019 edition. WikidataCon 2019, Berlin, 26. December 2019.
+Jean-Frédéric Berthelot, Tracy Hoffmann and Envel Le Hir. Sum of All video games − 2019 edition. WikidataCon 2019, Berlin, 26. October 2019.
 [Video](https://commons.wikimedia.org/wiki/File:WikidataCon_2019_-_Sum_of_all_video_games.pdf) and
 [Presentation](https://media.ccc.de/v/wikidatacon2019-1074-sum_of_all_video_games_2019_edition)
+
+Tracy Hoffmann. Using Wikidata for Video Game Research - Experiences, Opportunities and Challenges for Research Data Management. Wikidata goes Libraries, Vienna, 18. October 2019.
+[Presentation]( Zenodo. http://doi.org/10.5281/zenodo.3515882)
 
 Konstantin Freybe, Florian Rämisch and Tracy Hoffmann. With small steps to the big picture - A method and tool negotiation workflow. Twin Talks: Understanding Collaboration in DH at DHN 2019.
 [http://www.clarin.eu/sites/default/files/DHN\_2019\_diggr.pdf](http://www.clarin.eu/sites/default/files/DHN_2019_diggr.pdf)
