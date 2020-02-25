@@ -7,6 +7,8 @@ layout: page
 guid: https://diggr.link/?page_id=24
 ---
 
+[Gamespodcast Runde 245: Dark Souls durch die Linse der Wissenschaft (Dark Souls - through the lens of science](https://www.gamespodcast.de/2019/12/15/runde-245-dark-souls-durch-die-linse-der-wissenschaft/) by Andre Peschke, December 15, 2019
+
 [Wikidata and the sum of all video games − 2018 edition](https://commonists.wordpress.com/2019/01/01/wikidata-and-the-sum-of-all-video-games-%e2%88%92-2018-edition/) by Jean-Frédéric Berthelot, 1 January 2019
 [French version](https://www.lehir.net/wikidata-et-la-somme-de-tous-les-jeux-video-edition-2018/)
 
