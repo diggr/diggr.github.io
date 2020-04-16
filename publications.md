@@ -8,6 +8,9 @@ guid: https://diggr.link/?page_id=32
 ---
 # Paper and Poster 
 
+<span class="mci-citation"><span class="mci-citation-author">Arndt, Tracy, Freybe, Konstantin, Lahmann, André & Roth, Martin </span><span class="mci-citation-year">(2020).</span> <span class="mci-citation-title">Reference Evil – Bibliografische Herausforderungen bei Videospielen.</span> In: Bibliotheksdienst 54.5: 345-362.
+DOI: [10.1515/bd-2020-0045](https://www.degruyter.com/view/journals/bd/54/5/article-p345.xml)
+
 <span class="mci-citation"><span class="mci-citation-author">Hoffmann, Tracy, </span><span class="mci-citation-year">(2019). </span><span class="mci-citation-title">Developing a Mediated Vocabulary for Video Game Research.</span>
    <span class="mci-citation-conftitle">Proceedings of the Doctoral Symposium on Research on Online Databases in History, co-located with 3rd Data for History Workshop</span>,
    CEUR-WS.org, online [CEUR Vol-2532](http://ceur-ws.org/Vol-2532/paper8.pdf).
