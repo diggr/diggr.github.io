@@ -10,7 +10,7 @@ guid: https://diggr.link/?page_id=32
 
 <span class="mci-citation"><span class="mci-citation-author">Mühleder, Peter, Roth, Martin, Arndt, Tracy & Rämisch Florian </span><span class="mci-citation-year">(2020). </span><span class="mci-citation-title">Duct-taping Databases, or How to Use Fragmentary Online Data for Researching "Japanese" Videogames.</span>
    Journal of the Japanaese Association for Digital Humanities, 5(1), 61-83.
-   [https://www.jstage.jst.go.jp/article/jjadh/5/1/5_4/_pdf](https://www.jstage.jst.go.jp/article/jjadh/5/1/5_4/_pdf)
+   DOI: [10.17928/jjadh.5.1_61](https://doi.org/10.17928/jjadh.5.1_61)
 
 <span class="mci-citation"><span class="mci-citation-author">Arndt, Tracy, Freybe, Konstantin, Lahmann, André & Roth, Martin </span><span class="mci-citation-year">(2020).</span> <span class="mci-citation-title">Reference Evil – Bibliografische Herausforderungen bei Videospielen.</span> In: Bibliotheksdienst 54.5: 345-362.
 DOI: [10.1515/bd-2020-0045](https://www.degruyter.com/view/journals/bd/54/5/article-p345.xml)</span>
